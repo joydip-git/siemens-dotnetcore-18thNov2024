@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\bin\Debug\net8.0\FirstProject.exe
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\bin\Debug\net8.0\FirstProject.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\bin\Debug\net8.0\FirstProject.runtimeconfig.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\bin\Debug\net8.0\FirstProject.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\bin\Debug\net8.0\FirstProject.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\obj\Debug\net8.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\obj\Debug\net8.0\FirstProject.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\obj\Debug\net8.0\FirstProject.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\obj\Debug\net8.0\FirstProject.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\obj\Debug\net8.0\FirstProject.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\obj\Debug\net8.0\refint\FirstProject.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\obj\Debug\net8.0\FirstProject.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\obj\Debug\net8.0\FirstProject.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstProject\obj\Debug\net8.0\ref\FirstProject.dll

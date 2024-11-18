@@ -1,0 +1,192 @@
+https://github.com/joydip-git/siemens-dotnetcore-18thNov2024
+
+.net core
+
+
+
+VJ#
+
+.net framework
+2002 (1.0) => 2010 (4.0) => 2019 (4.8)
+
+.net core 
+2016 (1.0) => 3.5 
+
+.NET
+=> 5, 6, 7, 8
+
+
+COM => Component Object Model
+VB, VF, VC++,....
+runtime,
+ado, rdo, dao
+asp
+
+framework
+--------------------
+
+Lnaguages:
+
+VB.NET, VC++.NET,VF#, VC# etc.
+compiler => VBC, VCC
+runtime => CLR (Common Language Runtime)
+ado.net (ActiveX Data Object)
+asp.net (web application => active server pages .net)
+.net base class/framework library (.net BCL/FCL)
+
+source code => compiler => IL code (platform neutral code)
+												(.exe/.dll) => assembly
+
+2003 => 1.1
+2005 => 2.0
+
+year			.net framework version 		C# version    CLR version
+---------------------------------------------------------------
+2002				1.0									1.0						1.0
+2003				1.1									1.0						1.1
+2005				2.0									2.0						2.0
+2007				3.0									3.0						2.0
+2008				3.5									3.5						2.0
+2010				4.0									4.0						4.0
+2012				4.5.1								5.0						4.0
+2013				4.5.2								-							-
+2015				4.6.1/4.6.2						6.0						4.0
+2017				4.7									7.0						4.0
+2019				4.8									8.0						4.0
+
+					.net core/.NET
+2021				5.0									9.0	
+2024				8.0									12.0	
+
+
+XP => XPDM, use32.dll
+												
+
+Vista	=> VDDM, user32.dll
+
+Windows Form => Windows Presentation Foundation (WPF)
+
+mscorlib.dll, system.dll
+
+system.collections.generic.dll
+
+
+runtime =>
+	=> .net core runtime
+	=> .net desktop runtime
+	=> asp.net core runtime
+
+aps.net core
+	=> razor, blazor, etc.
+	=> web api
+
+ado.net
+Entity Framework Core (OR/M)
+
+compiler => Roslyn
+
+open source
+cross-platform
+modular
+
+Editor => Visual Studio/Visula Studio Code
+
+"dotnet" => CLI tool
+
+mscoree.dll => CLR
+
+
+View assembly contents => IDASM (Intermediate Language Dis-assembler) tool
+path: C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools
+
+
+assembly
+	=> IL Code
+	=> Manifest
+	=> Metadata (Metainfo)
+	=> Headers
+			=> win32 header
+			=> CLR Header
+
+
+Recap:
+-----------------------------
+.net framework (4.8) 
+
+.net (.net core) => 8.0
+cross-platform
+open source
+modular
+
+library: .net core library
+runtime: .net core runtime (.net desktop and asp.net core runtimes)
+web: asp.net core
+data access: ado.net + EF core
+
+CLI tool=> dotnet
+
+execution of application:
+---------------------------------------------
+source code is converted into IL code and placed inside an assembly (.dll). if the application is executable, additionally an executable will be provided, to host your DLL file.
+
+the IL code is converted to binary code using JIT (Just-in-Time) compiler uring runtime
+
+Language: C# 12.0
+
+basics:
+	data types
+	operators
+	control flow statements
+
+variables:
+	value type
+	reference type
+
+data types
+	value types									reference types
+---------------------------------------------------------
+built-in			user-defined		built-in 				user-defined
+byte					struct					string					class
+sbyte				enum						object					interface
+short																		delegate
+ushort																		event
+int
+uint
+long
+ulong
+
+
+float
+decimal
+double
+
+bool
+
+char
+
+
+Type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
