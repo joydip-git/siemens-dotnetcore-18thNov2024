@@ -1,0 +1,20 @@
+developer
+	=> id, name, basic, da, hra, incentive, totalsalary
+	=> calculatesalary
+			=> return type: void
+			=> args: NA
+
+hr
+	=> id, name, basic, da, hra, gratuity, totalsalary
+	=> calculatesalary
+			=> return type: void
+			=> args: NA
+
+ask user about number of objects to be created
+create an array with the same size
+create that many objects (of developer and hr together)
+save them in an array
+iterate through the array again
+pick up every instance and print their salary along with name
+
+	

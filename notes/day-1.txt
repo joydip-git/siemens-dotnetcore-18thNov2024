@@ -1,106 +1,105 @@
 https://github.com/joydip-git/siemens-dotnetcore-18thNov2024
 
-.net core
-
-
-
-VJ#
-
-.net framework
-2002 (1.0) => 2010 (4.0) => 2019 (4.8)
-
-.net core 
-2016 (1.0) => 3.5 
-
-.NET
-=> 5, 6, 7, 8
-
-
+COM technology:
+-----------------------------
 COM => Component Object Model
 VB, VF, VC++,....
 runtime,
 ado, rdo, dao
 asp
 
-framework
---------------------
 
-Lnaguages:
+Microsoft .NET:
+--------------------------------------------------
 
-VB.NET, VC++.NET,VF#, VC# etc.
-compiler => VBC, VCC
-runtime => CLR (Common Language Runtime)
-ado.net (ActiveX Data Object)
-asp.net (web application => active server pages .net)
-.net base class/framework library (.net BCL/FCL)
+.net framework (legacy => no more advancement)
+2002 (1.0) => 2010 (4.0) => 2019 (4.8)
 
-source code => compiler => IL code (platform neutral code)
-												(.exe/.dll) => assembly
+.net core (latest)
+2016 (1.0) => 3.5 
 
-2003 => 1.1
-2005 => 2.0
+.NET (.net core re-branded)
+=> 5, 6, 7, 8
+
+Windows Form/WPF application:
+-------------------------------------------
+
+display driver models:
+XP => XPDM, use32.dll
+Vista	=> VDDM, user32.dll
+Windows Form (old) => Windows Presentation Foundation (WPF) (introduced in 2007-.net 3.0 framework)
+
+
+.NET framework Components
+---------------------------------
+
+Languages: VB.NET, VC++.NET,VF#, VC# etc.
+library 				=> .net base class/framework class library (.net BCL/FCL)
+compiler 				=> VBC, VCC etc.
+runtime 				=> CLR (Common Language Runtime)
+data access tehcnology 	=> ado.net (ActiveX Data Object)
+web technology 		=> asp.net (active server pages .net)
+
+.net framework application execuion cycle:
+---------------------------------------------------------
+source code => compiler => IL code (platform neutral code) [placed into a .exe/.dll file => assembly]
+IL code is compiled into machine level code by JIT compiler of CLR
+
+Version History:
+-----------------------------------
 
 year			.net framework version 		C# version    CLR version
----------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 2002				1.0									1.0						1.0
 2003				1.1									1.0						1.1
 2005				2.0									2.0						2.0
 2007				3.0									3.0						2.0
 2008				3.5									3.5						2.0
 2010				4.0									4.0						4.0
-2012				4.5.1								5.0						4.0
-2013				4.5.2								-							-
-2015				4.6.1/4.6.2						6.0						4.0
+2012				4.5.1									5.0						4.0
+2013				4.5.2									-							-
+2015				4.6.1/4.6.2							6.0						4.0
 2017				4.7									7.0						4.0
 2019				4.8									8.0						4.0
 
 					.net core/.NET
+					-----------------
 2021				5.0									9.0	
 2024				8.0									12.0	
 
 
-XP => XPDM, use32.dll
-												
+.NET/.NET Core Framework:
+---------------------------------------
+runtime:			=> .net core runtime
+					=> .net desktop runtime
+					=> asp.net core runtime
 
-Vista	=> VDDM, user32.dll
+web technology 	=> asp.net core
+						=> razor, blazor, etc.
+						=> web api
 
-Windows Form => Windows Presentation Foundation (WPF)
+data access tchnology 	=> ado.net and Entity Framework Core (OR/M)
 
-mscorlib.dll, system.dll
+compiler 				=> Roslyn (for C# and VB)
 
-system.collections.generic.dll
+library				=> .net core library (partly installed in the machine and rest are in github/nuget)
 
-
-runtime =>
-	=> .net core runtime
-	=> .net desktop runtime
-	=> asp.net core runtime
-
-aps.net core
-	=> razor, blazor, etc.
-	=> web api
-
-ado.net
-Entity Framework Core (OR/M)
-
-compiler => Roslyn
-
+advantages:
+--------------------------
 open source
 cross-platform
 modular
 
-Editor => Visual Studio/Visula Studio Code
 
 "dotnet" => CLI tool
 
-mscoree.dll => CLR
-
+Assembly: 
 
 View assembly contents => IDASM (Intermediate Language Dis-assembler) tool
 path: C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools
 
 
-assembly
+components of assembly
 	=> IL Code
 	=> Manifest
 	=> Metadata (Metainfo)
@@ -109,31 +108,19 @@ assembly
 			=> CLR Header
 
 
-Recap:
------------------------------
-.net framework (4.8) 
-
-.net (.net core) => 8.0
-cross-platform
-open source
-modular
-
-library: .net core library
-runtime: .net core runtime (.net desktop and asp.net core runtimes)
-web: asp.net core
-data access: ado.net + EF core
-
-CLI tool=> dotnet
-
 execution of application:
 ---------------------------------------------
 source code is converted into IL code and placed inside an assembly (.dll). if the application is executable, additionally an executable will be provided, to host your DLL file.
-
 the IL code is converted to binary code using JIT (Just-in-Time) compiler uring runtime
 
-Language: C# 12.0
+
+C# Language:
+---------------------------------------------
+1. Object oriented
+2. type safe
 
 basics:
+---------------
 	data types
 	operators
 	control flow statements
@@ -142,14 +129,15 @@ variables:
 	value type
 	reference type
 
-data types
+data types:
+
 	value types									reference types
----------------------------------------------------------
+------------------------------------------------------------------
 built-in			user-defined		built-in 				user-defined
-byte					struct					string					class
-sbyte				enum						object					interface
-short																		delegate
-ushort																		event
+byte				struct				string					class
+sbyte				enum					object					interface
+short																	delegate
+ushort																event
 int
 uint
 long
@@ -166,6 +154,41 @@ char
 
 
 Type
+
+
+class:
+----------------
+use defined data type
+reference type
+
+1. if the class code is NOT already pre-compiled by JIT compiler then JIT compiler will compile that code into binary and at that point of time, class loader (an entity of runtime) will load the definition of the class from metadata part of the assembly and a Type class object will be created in memory with complete information about the class and its members
+2. runtime will allocate memory block and assign value to any static data member present in the class
+3. if the class has static constructor, even that gets executed at this time
+
+4. runtime will allocate memory blocks now for the instance data members of the class, starting from the position (address) as pointed by the Next Object Pointer (NOP) mainatained by Heap
+5. runtime will invoke constructor to assign value to the data members
+6. NOP will be adjusted to point to the next available memory block
+7. finally the address (initial) of the newly created object will be returned
+
+Note: every object has two more hidden  memory blocks - Type Object Pointer (TOP) and Sync Block Index (SBI)
+The "top" stores the reference of the Type class object containing metadata of the object's type.
+Static data member's memory block will NOT be part of any object. That will be separately placed inside static memory block (region) and every instance will be connected to that static memory block. Hence "static" keyword helps you declare "shared" member.
+
+static members are accessed via the class name (which is actually the reference of the Type class object storing that type's metadata)
+
+
+class can have tow types of members:
+static and instance
+
+
+Access specifiers:
+------------------------------
+class					=> public and internal
+class members		=> private, protected, public, internal, protected internal
+
+
+
+
 
 
 

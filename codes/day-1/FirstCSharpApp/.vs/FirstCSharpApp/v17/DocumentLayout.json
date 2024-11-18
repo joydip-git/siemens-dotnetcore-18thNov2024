@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\FirstCSharpApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C29A715-419A-4CAC-84F0-F78EFF8B1FCC}|PersonLibrary\\PersonLibrary.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\firstcsharpapp\\personlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C29A715-419A-4CAC-84F0-F78EFF8B1FCC}|PersonLibrary\\PersonLibrary.csproj|solutionrelative:personlibrary\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03C64881-4CC2-4F10-96BA-2E0AAB675C39}|FirstCSharpApp\\FirstCSharpApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\firstcsharpapp\\firstcsharpapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03C64881-4CC2-4F10-96BA-2E0AAB675C39}|FirstCSharpApp\\FirstCSharpApp.csproj|solutionrelative:firstcsharpapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C29A715-419A-4CAC-84F0-F78EFF8B1FCC}|PersonLibrary\\PersonLibrary.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\firstcsharpapp\\personlibrary\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C29A715-419A-4CAC-84F0-F78EFF8B1FCC}|PersonLibrary\\PersonLibrary.csproj|solutionrelative:personlibrary\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\FirstCSharpApp\\PersonLibrary\\Creator.cs",
+              "RelativeDocumentMoniker": "PersonLibrary\\Creator.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\FirstCSharpApp\\PersonLibrary\\Creator.cs",
+              "RelativeToolTip": "PersonLibrary\\Creator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:04:25.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\FirstCSharpApp\\PersonLibrary\\Person.cs",
+              "RelativeDocumentMoniker": "PersonLibrary\\Person.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\FirstCSharpApp\\PersonLibrary\\Person.cs",
+              "RelativeToolTip": "PersonLibrary\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:57:08.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\FirstCSharpApp\\FirstCSharpApp\\Program.cs",
               "RelativeDocumentMoniker": "FirstCSharpApp\\Program.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\FirstCSharpApp\\FirstCSharpApp\\Program.cs",
               "RelativeToolTip": "FirstCSharpApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T06:27:14.791Z",
               "EditorCaption": ""

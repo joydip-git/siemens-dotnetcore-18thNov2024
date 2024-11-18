@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\bin\Debug\net8.0\PersonLibrary.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\bin\Debug\net8.0\PersonLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\bin\Debug\net8.0\PersonLibrary.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\obj\Debug\net8.0\PersonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\obj\Debug\net8.0\PersonLibrary.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\obj\Debug\net8.0\PersonLibrary.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\obj\Debug\net8.0\PersonLibrary.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\obj\Debug\net8.0\PersonLibrary.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\obj\Debug\net8.0\PersonLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\obj\Debug\net8.0\refint\PersonLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\obj\Debug\net8.0\PersonLibrary.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\FirstCSharpApp\PersonLibrary\obj\Debug\net8.0\ref\PersonLibrary.dll
