@@ -186,8 +186,49 @@ Access specifiers:
 class					=> public and internal
 class members		=> private, protected, public, internal, protected internal
 
+Inheritance:
+--------------------------
+Only single and multi-level inheritance are supported
+Note: Multiple Inheritance of class is not supported
+
+class BaseCls{}
+class ChildCls:BaseCls{}
+
+Note: if the base class is "internal", child clas can't be "public"
+
+Polymorphism:
+-------------------------
+a. compile time
+	compiler connects the function call line with the called function and adds that instruction  in the IL code, known as Binding. During runtime, the function simply gets called.
+	
+	for compile time polymorphism to work, following conditions have to be satisfied about the polymorphed methods:
+	i. number of arguments
+	ii. data type of arguments
+	iii. poisition of the arguments
+	have to be different
+
+Note: all polymorphed methods have to be part of the same class
+	
+b. runtime
+	compiler connects the method call to the base class method. But during runtime, based on which child class object has been created, acordingly that child class method will be invoked.
+	In order for runtime polymorphism to work, following conditions have to be satisfied about the base and child class methods
+	i. both the method signatures should be same
+	ii. base class method should be declared with "virtual" keyword
+	iii. child class method should be declared with "override" keyword
+
+Note: 
+the methods should not be part of the same class, rather one in base and another in child.
+also, both methods exist, just the child class method completely shadows the base class method.
+you can override immediate base class method only
+
+class A { public virtual void Foo(){} }
+
+class B:A { public override void Foo(){} }
+
+class C:B { public override void Foo(){} }
 
 
+554425772 554425772
 
 
 

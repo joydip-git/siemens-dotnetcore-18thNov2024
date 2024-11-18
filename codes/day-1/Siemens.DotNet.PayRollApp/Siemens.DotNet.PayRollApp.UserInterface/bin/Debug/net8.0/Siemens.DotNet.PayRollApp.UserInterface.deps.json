@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Siemens.DotNet.PayRollApp.UserInterface/1.0.0": {
+        "dependencies": {
+          "Siemens.DotNet.PayRollApp.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Siemens.DotNet.PayRollApp.UserInterface.dll": {}
+        }
+      },
+      "Siemens.DotNet.PayRollApp.Entities/1.0.0": {
+        "runtime": {
+          "Siemens.DotNet.PayRollApp.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Siemens.DotNet.PayRollApp.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Siemens.DotNet.PayRollApp.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\PersonTestApp\\PersonTestApp.csproj": {}
+  },
+  "projects": {
+    "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\EqualityApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\EqualityApp.csproj",
+        "projectName": "EqualityApp",
+        "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\EqualityApp.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\PersonTestApp\\PersonTestApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\PersonTestApp\\PersonTestApp.csproj",
+        "projectName": "PersonTestApp",
+        "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\PersonTestApp\\PersonTestApp.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\PersonTestApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\EqualityApp.csproj": {
+                "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\EqualityApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

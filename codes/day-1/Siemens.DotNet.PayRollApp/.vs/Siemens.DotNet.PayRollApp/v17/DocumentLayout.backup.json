@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08DE0129-BB45-4E5F-8D6E-78EC614CE2D5}|Siemens.DotNet.PayRollApp.UserInterface\\Siemens.DotNet.PayRollApp.UserInterface.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\siemens.dotnet.payrollapp\\siemens.dotnet.payrollapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DE0129-BB45-4E5F-8D6E-78EC614CE2D5}|Siemens.DotNet.PayRollApp.UserInterface\\Siemens.DotNet.PayRollApp.UserInterface.csproj|solutionrelative:siemens.dotnet.payrollapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499D881-72F5-4B0D-95A9-77794906E93D}|Siemens.DotNet.PayRollApp.Entities\\Siemens.DotNet.PayRollApp.Entities.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\siemens.dotnet.payrollapp\\siemens.dotnet.payrollapp.entities\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9499D881-72F5-4B0D-95A9-77794906E93D}|Siemens.DotNet.PayRollApp.Entities\\Siemens.DotNet.PayRollApp.Entities.csproj|solutionrelative:siemens.dotnet.payrollapp.entities\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499D881-72F5-4B0D-95A9-77794906E93D}|Siemens.DotNet.PayRollApp.Entities\\Siemens.DotNet.PayRollApp.Entities.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\siemens.dotnet.payrollapp\\siemens.dotnet.payrollapp.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9499D881-72F5-4B0D-95A9-77794906E93D}|Siemens.DotNet.PayRollApp.Entities\\Siemens.DotNet.PayRollApp.Entities.csproj|solutionrelative:siemens.dotnet.payrollapp.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DE0129-BB45-4E5F-8D6E-78EC614CE2D5}|Siemens.DotNet.PayRollApp.UserInterface\\Siemens.DotNet.PayRollApp.UserInterface.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\siemens.dotnet.payrollapp\\siemens.dotnet.payrollapp.userinterface\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DE0129-BB45-4E5F-8D6E-78EC614CE2D5}|Siemens.DotNet.PayRollApp.UserInterface\\Siemens.DotNet.PayRollApp.UserInterface.csproj|solutionrelative:siemens.dotnet.payrollapp.userinterface\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499D881-72F5-4B0D-95A9-77794906E93D}|Siemens.DotNet.PayRollApp.Entities\\Siemens.DotNet.PayRollApp.Entities.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\siemens.dotnet.payrollapp\\siemens.dotnet.payrollapp.entities\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9499D881-72F5-4B0D-95A9-77794906E93D}|Siemens.DotNet.PayRollApp.Entities\\Siemens.DotNet.PayRollApp.Entities.csproj|solutionrelative:siemens.dotnet.payrollapp.entities\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\Siemens.DotNet.PayRollApp.UserInterface\\Calculation.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.PayRollApp.UserInterface\\Calculation.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\Siemens.DotNet.PayRollApp.UserInterface\\Calculation.cs",
+              "RelativeToolTip": "Siemens.DotNet.PayRollApp.UserInterface\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:13:08.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\Siemens.DotNet.PayRollApp.UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.PayRollApp.UserInterface\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\Siemens.DotNet.PayRollApp.UserInterface\\Program.cs*",
+              "RelativeToolTip": "Siemens.DotNet.PayRollApp.UserInterface\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:22:39.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hr.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\Siemens.DotNet.PayRollApp.Entities\\Hr.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.PayRollApp.Entities\\Hr.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\Siemens.DotNet.PayRollApp.Entities\\Hr.cs",
+              "RelativeToolTip": "Siemens.DotNet.PayRollApp.Entities\\Hr.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:21:28.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\Siemens.DotNet.PayRollApp.Entities\\Developer.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.PayRollApp.Entities\\Developer.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\Siemens.DotNet.PayRollApp.Entities\\Developer.cs",
+              "RelativeToolTip": "Siemens.DotNet.PayRollApp.Entities\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:04:47.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\Siemens.DotNet.PayRollApp.Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Siemens.DotNet.PayRollApp.Entities\\Employee.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\Siemens.DotNet.PayRollApp\\Siemens.DotNet.PayRollApp.Entities\\Employee.cs",
+              "RelativeToolTip": "Siemens.DotNet.PayRollApp.Entities\\Employee.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:51:46.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

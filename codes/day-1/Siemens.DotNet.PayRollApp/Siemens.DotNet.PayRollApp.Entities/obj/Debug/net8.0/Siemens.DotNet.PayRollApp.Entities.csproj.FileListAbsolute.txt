@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\bin\Debug\net8.0\Siemens.DotNet.PayRollApp.Entities.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\bin\Debug\net8.0\Siemens.DotNet.PayRollApp.Entities.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\bin\Debug\net8.0\Siemens.DotNet.PayRollApp.Entities.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\obj\Debug\net8.0\Siemens.DotNet.PayRollApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\obj\Debug\net8.0\Siemens.DotNet.PayRollApp.Entities.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\obj\Debug\net8.0\Siemens.DotNet.PayRollApp.Entities.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\obj\Debug\net8.0\Siemens.DotNet.PayRollApp.Entities.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\obj\Debug\net8.0\Siemens.DotNet.PayRollApp.Entities.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\obj\Debug\net8.0\Siemens.DotNet.PayRollApp.Entities.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\obj\Debug\net8.0\refint\Siemens.DotNet.PayRollApp.Entities.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\obj\Debug\net8.0\Siemens.DotNet.PayRollApp.Entities.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\Siemens.DotNet.PayRollApp\Siemens.DotNet.PayRollApp.Entities\obj\Debug\net8.0\ref\Siemens.DotNet.PayRollApp.Entities.dll

@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\bin\Debug\net8.0\EqualityApp.exe
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\bin\Debug\net8.0\EqualityApp.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\bin\Debug\net8.0\EqualityApp.runtimeconfig.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\bin\Debug\net8.0\EqualityApp.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\bin\Debug\net8.0\EqualityApp.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\obj\Debug\net8.0\EqualityApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\obj\Debug\net8.0\EqualityApp.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\obj\Debug\net8.0\EqualityApp.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\obj\Debug\net8.0\EqualityApp.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\obj\Debug\net8.0\EqualityApp.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\obj\Debug\net8.0\EqualityApp.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\obj\Debug\net8.0\refint\EqualityApp.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\obj\Debug\net8.0\EqualityApp.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\obj\Debug\net8.0\EqualityApp.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-1\EqualityApp\EqualityApp\obj\Debug\net8.0\ref\EqualityApp.dll

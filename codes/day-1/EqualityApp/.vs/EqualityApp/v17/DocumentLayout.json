@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD692C64-0A9B-4DFC-B575-1CA2F4580377}|EqualityApp\\EqualityApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\equalityapp\\equalityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD692C64-0A9B-4DFC-B575-1CA2F4580377}|EqualityApp\\EqualityApp.csproj|solutionrelative:equalityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D60E35-9207-41ED-85A8-B2B6C9AA2959}|PersonTestApp\\PersonTestApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\equalityapp\\persontestapp\\persontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D60E35-9207-41ED-85A8-B2B6C9AA2959}|PersonTestApp\\PersonTestApp.csproj|solutionrelative:persontestapp\\persontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD692C64-0A9B-4DFC-B575-1CA2F4580377}|EqualityApp\\EqualityApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\equalityapp\\equalityapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD692C64-0A9B-4DFC-B575-1CA2F4580377}|EqualityApp\\EqualityApp.csproj|solutionrelative:equalityapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD692C64-0A9B-4DFC-B575-1CA2F4580377}|EqualityApp\\EqualityApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-1\\equalityapp\\equalityapp\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD692C64-0A9B-4DFC-B575-1CA2F4580377}|EqualityApp\\EqualityApp.csproj|solutionrelative:equalityapp\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\PersonManager.cs",
+              "RelativeDocumentMoniker": "EqualityApp\\PersonManager.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\PersonManager.cs",
+              "RelativeToolTip": "EqualityApp\\PersonManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:55:51.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonTest.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\PersonTestApp\\PersonTest.cs",
+              "RelativeDocumentMoniker": "PersonTestApp\\PersonTest.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\PersonTestApp\\PersonTest.cs",
+              "RelativeToolTip": "PersonTestApp\\PersonTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:53:01.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\Person.cs",
+              "RelativeDocumentMoniker": "EqualityApp\\Person.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\Person.cs",
+              "RelativeToolTip": "EqualityApp\\Person.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:26:52.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\Program.cs",
+              "RelativeDocumentMoniker": "EqualityApp\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-1\\EqualityApp\\EqualityApp\\Program.cs",
+              "RelativeToolTip": "EqualityApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:26:35.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
