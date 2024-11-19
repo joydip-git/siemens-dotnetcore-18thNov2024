@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA07C2B3-53D7-435D-8D17-3023F6BF40F3}|OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\outstandingpersonapp\\outstandingpersonapp.userinterface\\outstandingpersonapp.userinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA07C2B3-53D7-435D-8D17-3023F6BF40F3}|OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj|solutionrelative:outstandingpersonapp.userinterface\\outstandingpersonapp.userinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA07C2B3-53D7-435D-8D17-3023F6BF40F3}|OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\outstandingpersonapp\\outstandingpersonapp.userinterface\\personutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA07C2B3-53D7-435D-8D17-3023F6BF40F3}|OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj|solutionrelative:outstandingpersonapp.userinterface\\personutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA07C2B3-53D7-435D-8D17-3023F6BF40F3}|OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\outstandingpersonapp\\outstandingpersonapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA07C2B3-53D7-435D-8D17-3023F6BF40F3}|OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj|solutionrelative:outstandingpersonapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2EAA94-537C-407B-84A5-167F06FC4BFA}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\outstandingpersonapp\\outstandingpersonapp.entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2EAA94-537C-407B-84A5-167F06FC4BFA}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|solutionrelative:outstandingpersonapp.entities\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2EAA94-537C-407B-84A5-167F06FC4BFA}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\outstandingpersonapp\\outstandingpersonapp.entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2EAA94-537C-407B-84A5-167F06FC4BFA}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|solutionrelative:outstandingpersonapp.entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2EAA94-537C-407B-84A5-167F06FC4BFA}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\outstandingpersonapp\\outstandingpersonapp.entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2EAA94-537C-407B-84A5-167F06FC4BFA}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|solutionrelative:outstandingpersonapp.entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2EAA94-537C-407B-84A5-167F06FC4BFA}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\outstandingpersonapp\\outstandingpersonapp.entities\\ioutstanding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2EAA94-537C-407B-84A5-167F06FC4BFA}|OutstandingPersonApp.Entities\\OutstandingPersonApp.Entities.csproj|solutionrelative:outstandingpersonapp.entities\\ioutstanding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutstandingPersonApp.UserInterface",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj",
+              "RelativeToolTip": "OutstandingPersonApp.UserInterface\\OutstandingPersonApp.UserInterface.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T07:24:47.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonUtility.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\PersonUtility.cs",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.UserInterface\\PersonUtility.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\PersonUtility.cs",
+              "RelativeToolTip": "OutstandingPersonApp.UserInterface\\PersonUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:16:23.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.UserInterface\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.UserInterface\\Program.cs",
+              "RelativeToolTip": "OutstandingPersonApp.UserInterface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:02:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOutstanding.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\IOutstanding.cs",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.Entities\\IOutstanding.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\IOutstanding.cs",
+              "RelativeToolTip": "OutstandingPersonApp.Entities\\IOutstanding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:05:27.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Professor.cs",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.Entities\\Professor.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Professor.cs",
+              "RelativeToolTip": "OutstandingPersonApp.Entities\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:57:19.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Student.cs",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.Entities\\Student.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Student.cs",
+              "RelativeToolTip": "OutstandingPersonApp.Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:55:28.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Person.cs",
+              "RelativeDocumentMoniker": "OutstandingPersonApp.Entities\\Person.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\OutstandingPersonApp\\OutstandingPersonApp.Entities\\Person.cs",
+              "RelativeToolTip": "OutstandingPersonApp.Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:52:12.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

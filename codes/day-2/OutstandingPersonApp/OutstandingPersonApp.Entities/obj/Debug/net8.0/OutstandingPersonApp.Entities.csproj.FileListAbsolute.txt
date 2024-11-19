@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\bin\Debug\net8.0\OutstandingPersonApp.Entities.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\bin\Debug\net8.0\OutstandingPersonApp.Entities.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\bin\Debug\net8.0\OutstandingPersonApp.Entities.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net8.0\OutstandingPersonApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net8.0\OutstandingPersonApp.Entities.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net8.0\OutstandingPersonApp.Entities.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net8.0\OutstandingPersonApp.Entities.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net8.0\OutstandingPersonApp.Entities.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net8.0\OutstandingPersonApp.Entities.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net8.0\refint\OutstandingPersonApp.Entities.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net8.0\OutstandingPersonApp.Entities.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\OutstandingPersonApp\OutstandingPersonApp.Entities\obj\Debug\net8.0\ref\OutstandingPersonApp.Entities.dll

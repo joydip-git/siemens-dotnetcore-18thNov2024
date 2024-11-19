@@ -1,3 +1,5 @@
+Abstract Class:
+------------------------------------------
 abstract class Sample{
 	protected string name;
 	
@@ -34,6 +36,20 @@ sample.Foo();
 You can override a method of base class in a child class, if the base class method is declared with
 	1. virtual	2. override 3. abstract
 
+1. object of abstract class can't be created
+2. a clas is abstract if it has at least one abstract member (property or method)
+3. an abstract class can have data members, you can write explicit constructors and other non-abstract methods/properties
+4. an abstract clas if inherited in a child class, then the child class must provide implementation of thoe abstract members using override keyword. otherwise the child class has to be declared with abstract keyword.
+
+
+Interface:
+----------------------------------
+1. object of interface can't be created
+2. an interface can have only abstract methods or properties
+3. an interface can't have data members, you can't write explicit constructors and other non-abstract methods/properties
+4. an interface if "implemented" in a child class, then the child class must provide implementation of those abstract members (do not need use override keyword, because interface are not declared with abstract keyword explicitly). otherwise the child class has to be declared with abstract keyword.
+5. by default, members of an interface are abstract and public.
+6. you can implement mpre than one interface in a class
 
 interface ISample1{
 	void Foo();
@@ -44,8 +60,6 @@ interface ISample2{
 	void Show();
 	void Method();
 }
-
-by default members of an interface are abstract and public.
 
 class SampleImpl:ISample1, ISample2{
 	public void Foo(){}
@@ -72,12 +86,90 @@ sample.Method();
 
 //sample.Show();
 
+class Proxy:CalculationServiceContract{
+	int Add(int x, int y){ this.channel.invoke()}
+	int Subtract(int x, int y){}
+}
+
+//contract
+interface CalculationServiceContract{		
+	int Add(int x, int y);
+	int Subtract(int x, int y);
+}
+
+//ServiceType
+class CalculationService:CalculationServiceContract{
+	public int Add(int x, int y){
+		return x+y;
+	}
+}
+
+products
+
+product_id(pk)	product_name	price desc			cat_id(fk)NULLable
+---------------------------------------------------------------------
+1						dell xps			1000	gsghasg		NULL
+
+categories
+category_id(pk) cat_name
+---------------------------
+1						laptop
+
+select prod
+
+Product			
+------------------	
+	ProductId, ProductName, Price, Desc, CatgeoryId
+
+
+Category
+-----------------
+	Id, Name
 
 
 
+association (has-a):
+	1. composition [1-M,1-1]
+	2. aggregation [1-M,1-1]
+	3. association [1-M, 1-M]
 
 
+bookid(pk) bookname
+----------------------------
 
+Subscriber
+---------------------
+SubId SubName
+
+
+Catalog
+-----------------
+entryid(pk)	bookid	subid		borrowdate	returndate	fine
+
+
+authorid(pk) authorname
+---------------------------
+
+authorsbooks
+------------------------
+bookid(fk) authorid(fk)
+1				1
+1				2
+2				1
+2				2
+
+
+Nullable<int> x = null;
+int? x = null;
+
+x = 100;
+if(x.HasValue){
+	x.Value
+}
+
+string? name = null;
+
+return name??name;
 
 
 

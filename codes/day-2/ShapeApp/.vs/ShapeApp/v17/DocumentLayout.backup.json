@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ShapeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6833615D-6BF6-4524-A96B-DC2E9BBF960C}|ShapeApp.Entities\\ShapeApp.Entities.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\shapeapp\\shapeapp.entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6833615D-6BF6-4524-A96B-DC2E9BBF960C}|ShapeApp.Entities\\ShapeApp.Entities.csproj|solutionrelative:shapeapp.entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6833615D-6BF6-4524-A96B-DC2E9BBF960C}|ShapeApp.Entities\\ShapeApp.Entities.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\shapeapp\\shapeapp.entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6833615D-6BF6-4524-A96B-DC2E9BBF960C}|ShapeApp.Entities\\ShapeApp.Entities.csproj|solutionrelative:shapeapp.entities\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ShapeApp\\ShapeApp.Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "ShapeApp.Entities\\Circle.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ShapeApp\\ShapeApp.Entities\\Circle.cs",
+              "RelativeToolTip": "ShapeApp.Entities\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:20:00.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ShapeApp\\ShapeApp.Entities\\IShape.cs",
+              "RelativeDocumentMoniker": "ShapeApp.Entities\\IShape.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ShapeApp\\ShapeApp.Entities\\IShape.cs",
+              "RelativeToolTip": "ShapeApp.Entities\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:10:15.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
