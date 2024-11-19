@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\bin\Debug\net8.0\GenericApp.exe
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\bin\Debug\net8.0\GenericApp.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\bin\Debug\net8.0\GenericApp.runtimeconfig.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\bin\Debug\net8.0\GenericApp.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\bin\Debug\net8.0\GenericApp.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\obj\Debug\net8.0\refint\GenericApp.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\obj\Debug\net8.0\GenericApp.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\GenericApp\GenericApp\obj\Debug\net8.0\ref\GenericApp.dll

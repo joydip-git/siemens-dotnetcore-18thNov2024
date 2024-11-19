@@ -169,7 +169,11 @@ if(x.HasValue){
 
 string? name = null;
 
-return name??name;
+return name??name; => Null coalesce operator
+
+Generic:
+--------------------------------
+method, class, interface, delegate
 
 
 

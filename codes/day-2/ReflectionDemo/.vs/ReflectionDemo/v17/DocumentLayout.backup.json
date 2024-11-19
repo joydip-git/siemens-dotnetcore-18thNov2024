@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ReflectionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21269B83-BF49-43CB-BB7E-C5F1FBD6217E}|ReflectionDemo\\ReflectionDemo.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\reflectiondemo\\reflectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21269B83-BF49-43CB-BB7E-C5F1FBD6217E}|ReflectionDemo\\ReflectionDemo.csproj|solutionrelative:reflectiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCF867-9745-4E66-AC6C-68C9EBC53202}|CalculationLibrary\\CalculationLibrary.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\reflectiondemo\\calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCF867-9745-4E66-AC6C-68C9EBC53202}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCF867-9745-4E66-AC6C-68C9EBC53202}|CalculationLibrary\\CalculationLibrary.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\reflectiondemo\\calculationlibrary\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCF867-9745-4E66-AC6C-68C9EBC53202}|CalculationLibrary\\CalculationLibrary.csproj|solutionrelative:calculationlibrary\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ReflectionDemo\\CalculationLibrary\\Calculation.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\Calculation.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ReflectionDemo\\CalculationLibrary\\Calculation.cs",
+              "RelativeToolTip": "CalculationLibrary\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:36:08.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICalculation.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ReflectionDemo\\CalculationLibrary\\ICalculation.cs",
+              "RelativeDocumentMoniker": "CalculationLibrary\\ICalculation.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ReflectionDemo\\CalculationLibrary\\ICalculation.cs",
+              "RelativeToolTip": "CalculationLibrary\\ICalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:26:17.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ReflectionDemo\\ReflectionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionDemo\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ReflectionDemo\\ReflectionDemo\\Program.cs",
+              "RelativeToolTip": "ReflectionDemo\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:06:54.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
