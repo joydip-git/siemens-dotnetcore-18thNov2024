@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFC2E5E-6E65-4248-9654-1D0175657C3F}|ExtensionMethodApp.UserInterface\\ExtensionMethodApp.UserInterface.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\extensionmethodapp\\extensionmethodapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFC2E5E-6E65-4248-9654-1D0175657C3F}|ExtensionMethodApp.UserInterface\\ExtensionMethodApp.UserInterface.csproj|solutionrelative:extensionmethodapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A94772-EC6C-4AB7-8005-1E4D16459DCE}|ExtensionMethodApp.ExtensionLibrary\\ExtensionMethodApp.ExtensionLibrary.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\extensionmethodapp\\extensionmethodapp.extensionlibrary\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A94772-EC6C-4AB7-8005-1E4D16459DCE}|ExtensionMethodApp.ExtensionLibrary\\ExtensionMethodApp.ExtensionLibrary.csproj|solutionrelative:extensionmethodapp.extensionlibrary\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C82014-C799-4370-B504-C8A2C6B3DE68}|ExtensionMethodApp.SimpleLibrary\\ExtensionMethodApp.SimpleLibrary.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\extensionmethodapp\\extensionmethodapp.simplelibrary\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C82014-C799-4370-B504-C8A2C6B3DE68}|ExtensionMethodApp.SimpleLibrary\\ExtensionMethodApp.SimpleLibrary.csproj|solutionrelative:extensionmethodapp.simplelibrary\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7718AEC6-19D6-4EBE-8EDF-097BD8D55C03}|ExtensionMethodApp.CalculationLibrary\\ExtensionMethodApp.CalculationLibrary.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\extensionmethodapp\\extensionmethodapp.calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7718AEC6-19D6-4EBE-8EDF-097BD8D55C03}|ExtensionMethodApp.CalculationLibrary\\ExtensionMethodApp.CalculationLibrary.csproj|solutionrelative:extensionmethodapp.calculationlibrary\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637342BB-B0C8-4DDB-AFF4-E7A9AF489CF4}|ExtensionMethodApp.CalculatorContractLibrary\\ExtensionMethodApp.CalculatorContractLibrary.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-2\\extensionmethodapp\\extensionmethodapp.calculatorcontractlibrary\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637342BB-B0C8-4DDB-AFF4-E7A9AF489CF4}|ExtensionMethodApp.CalculatorContractLibrary\\ExtensionMethodApp.CalculatorContractLibrary.csproj|solutionrelative:extensionmethodapp.calculatorcontractlibrary\\icalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\ExtensionMethodApp.CalculationLibrary\\Calculation.cs",
+              "RelativeDocumentMoniker": "ExtensionMethodApp.CalculationLibrary\\Calculation.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\ExtensionMethodApp.CalculationLibrary\\Calculation.cs",
+              "RelativeToolTip": "ExtensionMethodApp.CalculationLibrary\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:55:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalculator.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\ExtensionMethodApp.CalculatorContractLibrary\\ICalculator.cs",
+              "RelativeDocumentMoniker": "ExtensionMethodApp.CalculatorContractLibrary\\ICalculator.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\ExtensionMethodApp.CalculatorContractLibrary\\ICalculator.cs",
+              "RelativeToolTip": "ExtensionMethodApp.CalculatorContractLibrary\\ICalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:52:53.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\ExtensionMethodApp.ExtensionLibrary\\Extensions.cs",
+              "RelativeDocumentMoniker": "ExtensionMethodApp.ExtensionLibrary\\Extensions.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\ExtensionMethodApp.ExtensionLibrary\\Extensions.cs",
+              "RelativeToolTip": "ExtensionMethodApp.ExtensionLibrary\\Extensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:50:38.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleCalculator.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\ExtensionMethodApp.SimpleLibrary\\SimpleCalculator.cs",
+              "RelativeDocumentMoniker": "ExtensionMethodApp.SimpleLibrary\\SimpleCalculator.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\ExtensionMethodApp.SimpleLibrary\\SimpleCalculator.cs",
+              "RelativeToolTip": "ExtensionMethodApp.SimpleLibrary\\SimpleCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:49:15.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\ExtensionMethodApp.UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethodApp.UserInterface\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-2\\ExtensionMethodApp\\ExtensionMethodApp.UserInterface\\Program.cs",
+              "RelativeToolTip": "ExtensionMethodApp.UserInterface\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:46:31.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

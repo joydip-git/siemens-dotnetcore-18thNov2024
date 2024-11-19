@@ -86,6 +86,20 @@ if (clsType != null)
                     }
                 }
             }
+
+            FieldInfo[] fields = clsType.GetFields(
+                BindingFlags.Instance |
+                BindingFlags.NonPublic |
+                BindingFlags.Public |
+                BindingFlags.Static
+                );
+            Console.WriteLine("\n Fields\n");
+            foreach (FieldInfo field in fields)
+            {
+                Console.WriteLine(field.Name);
+                Console.WriteLine(field.FieldType);
+                Console.WriteLine(field.GetValue(obj));
+            }
         }
     }
 }

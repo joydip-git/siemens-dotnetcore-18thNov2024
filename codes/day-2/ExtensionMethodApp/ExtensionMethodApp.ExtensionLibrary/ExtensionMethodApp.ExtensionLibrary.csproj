@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExtensionMethodApp.CalculationLibrary\ExtensionMethodApp.CalculationLibrary.csproj" />
+    <ProjectReference Include="..\ExtensionMethodApp.SimpleLibrary\ExtensionMethodApp.SimpleLibrary.csproj" />
+  </ItemGroup>
+
+</Project>

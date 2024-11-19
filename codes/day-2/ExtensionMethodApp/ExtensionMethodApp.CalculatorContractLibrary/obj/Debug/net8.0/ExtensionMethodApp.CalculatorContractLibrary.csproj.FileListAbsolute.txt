@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\bin\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\bin\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\bin\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\obj\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\obj\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\obj\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\obj\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\obj\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\obj\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\obj\Debug\net8.0\refint\ExtensionMethodApp.CalculatorContractLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\obj\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.CalculatorContractLibrary\obj\Debug\net8.0\ref\ExtensionMethodApp.CalculatorContractLibrary.dll

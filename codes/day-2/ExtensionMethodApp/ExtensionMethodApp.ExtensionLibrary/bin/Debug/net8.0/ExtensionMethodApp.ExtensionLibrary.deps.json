@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExtensionMethodApp.ExtensionLibrary/1.0.0": {
+        "dependencies": {
+          "ExtensionMethodApp.CalculationLibrary": "1.0.0",
+          "ExtensionMethodApp.SimpleLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExtensionMethodApp.ExtensionLibrary.dll": {}
+        }
+      },
+      "ExtensionMethodApp.CalculationLibrary/1.0.0": {
+        "dependencies": {
+          "ExtensionMethodApp.CalculatorContractLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExtensionMethodApp.CalculationLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ExtensionMethodApp.CalculatorContractLibrary/1.0.0": {
+        "runtime": {
+          "ExtensionMethodApp.CalculatorContractLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ExtensionMethodApp.SimpleLibrary/1.0.0": {
+        "dependencies": {
+          "ExtensionMethodApp.CalculatorContractLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExtensionMethodApp.SimpleLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExtensionMethodApp.ExtensionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtensionMethodApp.CalculationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtensionMethodApp.CalculatorContractLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtensionMethodApp.SimpleLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

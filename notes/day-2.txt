@@ -175,6 +175,23 @@ Generic:
 --------------------------------
 method, class, interface, delegate
 
+Reflection:
+-------------------
+Mechanism for
+	a. runtime type discovery
+	b. create object on the fly (dynamically)
+	c. invoke method on the fly (dynamically)
+etc.
+
+namespace: System
+class: Type
+
+namespace: System.Reflection
+classes: Assembly, MemberInfo, MethodInfo, PropertyInfo, FieldInfo, ConstructorInfo etc.
+
+
+List<T>
+
 
 
 

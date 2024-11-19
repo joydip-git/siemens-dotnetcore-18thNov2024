@@ -1,0 +1,16 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\bin\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\bin\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\bin\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\refint\ExtensionMethodApp.SimpleLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\ref\ExtensionMethodApp.SimpleLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\bin\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\bin\Debug\net8.0\ExtensionMethodApp.CalculatorContractLibrary.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\ExtensionMethodApp.SimpleLibrary.csproj.AssemblyReference.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-2\ExtensionMethodApp\ExtensionMethodApp.SimpleLibrary\obj\Debug\net8.0\Extensio.FB976488.Up2Date
