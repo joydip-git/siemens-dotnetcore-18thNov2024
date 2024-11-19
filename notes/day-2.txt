@@ -1,0 +1,92 @@
+abstract class Sample{
+	protected string name;
+	
+	public Sample(){}
+
+	public Sample(string name){ this.name = name; }
+	
+	public virtual void Print()
+	{
+		//code
+	}
+	public abstract void Foo();
+	public abstract string Name {set; get;}
+}
+
+class Implementation:Sample{
+	public override void Foo()
+	{
+		//code
+	}
+	public override string Name {set=>name=value; get=>name;}
+	public void Show(){}
+}
+
+Implementation im = new();
+im.Foo();
+im.Show();
+
+//upcasting
+Sample sample = im;
+sample.Foo();
+
+
+You can override a method of base class in a child class, if the base class method is declared with
+	1. virtual	2. override 3. abstract
+
+
+interface ISample1{
+	void Foo();
+	void Method();
+	string Name{set;get;}
+}
+interface ISample2{
+	void Show();
+	void Method();
+}
+
+by default members of an interface are abstract and public.
+
+class SampleImpl:ISample1, ISample2{
+	public void Foo(){}
+	public void Show(){}
+
+	//implicit implementation
+	//public void Method(){}
+
+	//explicit implementation
+	void ISample1.Method(){}
+	void ISample2.Method(){}
+}
+
+SampleImpl s = new();
+s.Foo();
+s.Show();
+//s.Method();
+
+
+//upcasting (explicit invocation)
+ISample1 sample = s;
+sample.Foo();
+sample.Method();
+
+//sample.Show();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

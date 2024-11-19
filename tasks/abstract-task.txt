@@ -1,0 +1,22 @@
+Student
+	=> name, marks
+	=> isOutstanding():boolean
+
+
+Professor
+	=> name, booksPublished
+	=> isOutstanding():boolean
+
+
+List<T> l = new();
+l.add(obj1)
+
+Circle
+	=> radius
+	=> CalculateArea():double
+
+Triangle
+	=> tbase, theight
+	=> CalculateArea():double
+
+List<T> l = new ();
