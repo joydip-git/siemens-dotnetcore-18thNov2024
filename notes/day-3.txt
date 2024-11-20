@@ -1,0 +1,179 @@
+System.Collections							System.Collections.generic
+
+IEnumerable										IEnumerable<T>
+ICollection										ICollection<T>
+IList												IList<T>
+IEnumerator										IEnumerator<T>
+
+
+Classes:											Classes:
+--------------------------------------------------------------
+ArrayList													List<T>
+Stack														Stack<T>
+Queue														Queue<T>
+HashTable													Dictionary<TKey,TValue>
+SortedList												SortedList<TKey,TValue>
+etc.															HashSet<T>
+
+
+namespace => System
+
+interface: IComparable<T>
+				  int CompareTo(T item);
+
+interface: IComparable
+				  int CompareTo(object item);
+
+
+x.CompareTo(y)
+
+
+namespace: 
+	System.collections => IComparer 
+	int Compare(Object x, Object y)
+
+and 
+	System.Collections.Generic => IComparer<T>
+	int Compare(T x, T y)
+
+
+Indexer:
+	a special property of class, which allows you to pass additional arguments(s) along with the value to be set to a property.
+	used to set value to one or more than one property
+	used in collection and generic collection classes to access the value based on index position
+	always called on an instance
+	does not have a name
+
+class Person{
+		 public int Id { get; set; }
+ 		 public string Name { get; set; } = "";
+			//Indexer
+public object this[int x]
+{
+    set
+    {
+        if (x == 1)
+        {
+            Id = (int)value;
+        }
+        else if (x == 2)
+        {
+            Name = (string)value;
+        }
+    }
+    get
+    {
+        if (x == 1)
+        {
+            return Id;
+        }
+        else if (x == 2)
+        {
+            return Name;
+        }
+        else
+        {
+            return "No proper value";
+        }
+    }
+}
+
+//Indexer
+public object this[string propName]
+{
+    set
+    {
+        if (propName == "id")
+        {
+            Id = (int)value;
+        }
+        else if (propName == "name")
+        {
+            Name = (string)value;
+        }
+    }
+    get
+    {
+        if (propName == "id")
+        {
+            return Id;
+        }
+        else if (propName == "name")
+        {
+            return Name;
+        }
+        else
+        {
+            return "No proper value";
+        }
+    }
+}
+}
+
+Person myPerson = new Person();
+myPerson[1] = 1;
+myPerson[2] = "anil";
+Console.WriteLine(myPerson["id"]);
+Console.WriteLine(myPerson["name"]);
+
+
+
+IEnumerable<T> => IEnumerator<T> GetEnumerator();
+	foraech loop internally used this method to return one value at a time from collection 
+	yield => creates an enumerator object which will hold one value at a time from the collection and is returned to the user
+
+IEnumerator<T> => 
+	bool MoveNext() => moves the cursor from one to the next value in the collection
+	T Current { get;} => returns the current value in the enumerator (As taken from collection)
+
+
+Comparison:
+	internalization: 
+	collection.Sort():	the type (of collection) must implement the IComparable<T> interface containing "int CompareTo(T obj)" method.
+		Note: you can't have criteria based sorting
+
+	externalization: 
+	1. collection.Sort(IComparer<T> c):	the type (of collection) need not to implement the IComparable<T> interface containing "int CompareTo(T obj)" method, rather you must pass an instance of a class which implements the "int Compare(T x, T y)" from "IComparer<T>" interface, wher the method contains logic of sorting
+	Note: you can have criteria based sorting
+
+	2. collection.Sort(Comparison<T> c): pass a logic for comparison which statisfies the Comparison<T> delegate
+	delegate int Comparison<in T>(T x, T y);
+
+solution: ProductManagementSystem
+
+entities/models:
+project: ProductManagementSystem.Entities/Models
+
+data access layer:
+project: ProductManagementSystem.Repository/DataAccessLayer
+files:
+	interface with contracts for the operations
+	class implementing that contract
+
+business layer:
+project: ProductManagementSystem.BusinessLayer/Managers
+
+
+Repo<T> => 
+
+ProductRepoContract:Repo<Product>{
+	Product[] FilterByPName(string name);
+}
+
+ProductRepo :ProductRepoContract
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

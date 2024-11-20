@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\DeelegateDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8DD016-3E2A-4926-AD83-3FD18F8DF43B}|DeelegateDemo\\DeelegateDemo.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-3\\deelegatedemo\\deelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8DD016-3E2A-4926-AD83-3FD18F8DF43B}|DeelegateDemo\\DeelegateDemo.csproj|solutionrelative:deelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\DeelegateDemo\\DeelegateDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DeelegateDemo\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\DeelegateDemo\\DeelegateDemo\\Program.cs",
+              "RelativeToolTip": "DeelegateDemo\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:53:06.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

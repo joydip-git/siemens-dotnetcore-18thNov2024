@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\CollectionsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA22A9BA-753E-4AC3-B60F-D76E395E01EB}|CollectionsDemo\\CollectionsDemo.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-3\\collectionsdemo\\collectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA22A9BA-753E-4AC3-B60F-D76E395E01EB}|CollectionsDemo\\CollectionsDemo.csproj|solutionrelative:collectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA22A9BA-753E-4AC3-B60F-D76E395E01EB}|CollectionsDemo\\CollectionsDemo.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-3\\collectionsdemo\\collectionsdemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA22A9BA-753E-4AC3-B60F-D76E395E01EB}|CollectionsDemo\\CollectionsDemo.csproj|solutionrelative:collectionsdemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA22A9BA-753E-4AC3-B60F-D76E395E01EB}|CollectionsDemo\\CollectionsDemo.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-3\\collectionsdemo\\collectionsdemo\\personcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA22A9BA-753E-4AC3-B60F-D76E395E01EB}|CollectionsDemo\\CollectionsDemo.csproj|solutionrelative:collectionsdemo\\personcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA22A9BA-753E-4AC3-B60F-D76E395E01EB}|CollectionsDemo\\CollectionsDemo.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-3\\collectionsdemo\\collectionsdemo\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA22A9BA-753E-4AC3-B60F-D76E395E01EB}|CollectionsDemo\\CollectionsDemo.csproj|solutionrelative:collectionsdemo\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonComparison.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\CollectionsDemo\\CollectionsDemo\\PersonComparison.cs",
+              "RelativeDocumentMoniker": "CollectionsDemo\\PersonComparison.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\CollectionsDemo\\CollectionsDemo\\PersonComparison.cs",
+              "RelativeToolTip": "CollectionsDemo\\PersonComparison.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:44:06.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\CollectionsDemo\\CollectionsDemo\\Person.cs",
+              "RelativeDocumentMoniker": "CollectionsDemo\\Person.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\CollectionsDemo\\CollectionsDemo\\Person.cs",
+              "RelativeToolTip": "CollectionsDemo\\Person.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAzwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:42:47.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyList.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\CollectionsDemo\\CollectionsDemo\\MyList.cs",
+              "RelativeDocumentMoniker": "CollectionsDemo\\MyList.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\CollectionsDemo\\CollectionsDemo\\MyList.cs",
+              "RelativeToolTip": "CollectionsDemo\\MyList.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:30:21.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\CollectionsDemo\\CollectionsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionsDemo\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-3\\CollectionsDemo\\CollectionsDemo\\Program.cs",
+              "RelativeToolTip": "CollectionsDemo\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:20:19.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
