@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagementSystem.Models", "ProductManagementSystem.Models\ProductManagementSystem.Models.csproj", "{DB0781E1-1D5A-4770-911A-6247CC05F10E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagementSystem.Models", "ProductManagementSystem.Models\ProductManagementSystem.Models.csproj", "{DB0781E1-1D5A-4770-911A-6247CC05F10E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagementSystem.Repository", "ProductManagementSystem.Repository\ProductManagementSystem.Repository.csproj", "{8ED40ED4-B5E3-441D-9538-7DA859199A98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagementSystem.Repository", "ProductManagementSystem.Repository\ProductManagementSystem.Repository.csproj", "{8ED40ED4-B5E3-441D-9538-7DA859199A98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagementSystem.BusinessComponents", "ProductManagementSystem.BusinessComponents\ProductManagementSystem.BusinessComponents.csproj", "{00058054-FF54-4026-8F54-92BECB61A705}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagementSystem.BusinessComponents", "ProductManagementSystem.BusinessComponents\ProductManagementSystem.BusinessComponents.csproj", "{00058054-FF54-4026-8F54-92BECB61A705}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagementSystem.UserInterface", "ProductManagementSystem.UserInterface\ProductManagementSystem.UserInterface.csproj", "{A179221C-D598-4D05-B9BA-64A8EFAE5FC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagementSystem.UserInterface", "ProductManagementSystem.UserInterface\ProductManagementSystem.UserInterface.csproj", "{A179221C-D598-4D05-B9BA-64A8EFAE5FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagementSystem.Storage", "ProductManagementSystem.Storage\ProductManagementSystem.Storage.csproj", "{6ECA047C-BE5F-43EF-8FFC-ED265FD79D9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A179221C-D598-4D05-B9BA-64A8EFAE5FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A179221C-D598-4D05-B9BA-64A8EFAE5FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A179221C-D598-4D05-B9BA-64A8EFAE5FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECA047C-BE5F-43EF-8FFC-ED265FD79D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECA047C-BE5F-43EF-8FFC-ED265FD79D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECA047C-BE5F-43EF-8FFC-ED265FD79D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECA047C-BE5F-43EF-8FFC-ED265FD79D9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

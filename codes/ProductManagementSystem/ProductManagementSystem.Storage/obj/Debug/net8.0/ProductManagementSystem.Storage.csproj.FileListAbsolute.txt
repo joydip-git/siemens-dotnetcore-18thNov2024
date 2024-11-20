@@ -1,0 +1,16 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\bin\Debug\net8.0\ProductManagementSystem.Storage.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\bin\Debug\net8.0\ProductManagementSystem.Storage.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\bin\Debug\net8.0\ProductManagementSystem.Storage.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\bin\Debug\net8.0\ProductManagementSystem.Models.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\bin\Debug\net8.0\ProductManagementSystem.Models.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\ProductManagementSystem.Storage.csproj.AssemblyReference.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\ProductManagementSystem.Storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\ProductManagementSystem.Storage.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\ProductManagementSystem.Storage.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\ProductManagementSystem.Storage.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\ProductManagementSystem.Storage.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\ProductM.B6BEA6C0.Up2Date
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\ProductManagementSystem.Storage.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\refint\ProductManagementSystem.Storage.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\ProductManagementSystem.Storage.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Storage\obj\Debug\net8.0\ref\ProductManagementSystem.Storage.dll

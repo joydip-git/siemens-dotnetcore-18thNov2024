@@ -13,3 +13,7 @@ D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\Product
 D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.pdb
 D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.genruntimeconfig.cache
 D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ref\ProductManagementSystem.UserInterface.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.csproj.AssemblyReference.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductM.5FA6F579.Up2Date

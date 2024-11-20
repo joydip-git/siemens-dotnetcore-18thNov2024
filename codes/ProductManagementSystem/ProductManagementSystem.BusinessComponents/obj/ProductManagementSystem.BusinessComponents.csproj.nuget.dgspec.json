@@ -31,7 +31,217 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Models\\ProductManagementSystem.Models.csproj": {
+                "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Models\\ProductManagementSystem.Models.csproj"
+              },
+              "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj": {
+                "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Models\\ProductManagementSystem.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Models\\ProductManagementSystem.Models.csproj",
+        "projectName": "ProductManagementSystem.Models",
+        "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Models\\ProductManagementSystem.Models.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj",
+        "projectName": "ProductManagementSystem.Repository",
+        "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Models\\ProductManagementSystem.Models.csproj": {
+                "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Models\\ProductManagementSystem.Models.csproj"
+              },
+              "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Storage\\ProductManagementSystem.Storage.csproj": {
+                "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Storage\\ProductManagementSystem.Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Storage\\ProductManagementSystem.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Storage\\ProductManagementSystem.Storage.csproj",
+        "projectName": "ProductManagementSystem.Storage",
+        "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Storage\\ProductManagementSystem.Storage.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Models\\ProductManagementSystem.Models.csproj": {
+                "projectPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Models\\ProductManagementSystem.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
