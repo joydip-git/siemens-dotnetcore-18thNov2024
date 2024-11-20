@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net8.0\ProductManagementSystem.UserInterface.exe
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net8.0\ProductManagementSystem.UserInterface.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net8.0\ProductManagementSystem.UserInterface.runtimeconfig.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net8.0\ProductManagementSystem.UserInterface.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\bin\Debug\net8.0\ProductManagementSystem.UserInterface.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\refint\ProductManagementSystem.UserInterface.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ProductManagementSystem.UserInterface.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.UserInterface\obj\Debug\net8.0\ref\ProductManagementSystem.UserInterface.dll

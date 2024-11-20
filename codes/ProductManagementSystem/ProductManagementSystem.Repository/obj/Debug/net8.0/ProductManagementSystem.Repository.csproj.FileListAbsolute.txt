@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\bin\Debug\net8.0\ProductManagementSystem.Repository.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\bin\Debug\net8.0\ProductManagementSystem.Repository.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\bin\Debug\net8.0\ProductManagementSystem.Repository.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\refint\ProductManagementSystem.Repository.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ref\ProductManagementSystem.Repository.dll

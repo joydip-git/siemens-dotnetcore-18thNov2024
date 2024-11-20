@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\bin\Debug\net8.0\ProductManagementSystem.Models.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\bin\Debug\net8.0\ProductManagementSystem.Models.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\bin\Debug\net8.0\ProductManagementSystem.Models.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\obj\Debug\net8.0\ProductManagementSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\obj\Debug\net8.0\ProductManagementSystem.Models.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\obj\Debug\net8.0\ProductManagementSystem.Models.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\obj\Debug\net8.0\ProductManagementSystem.Models.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\obj\Debug\net8.0\ProductManagementSystem.Models.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\obj\Debug\net8.0\ProductManagementSystem.Models.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\obj\Debug\net8.0\refint\ProductManagementSystem.Models.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\obj\Debug\net8.0\ProductManagementSystem.Models.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Models\obj\Debug\net8.0\ref\ProductManagementSystem.Models.dll

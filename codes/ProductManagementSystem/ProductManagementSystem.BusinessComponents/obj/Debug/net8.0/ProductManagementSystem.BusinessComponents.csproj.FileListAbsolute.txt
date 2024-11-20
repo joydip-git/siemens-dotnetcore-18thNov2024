@@ -1,0 +1,12 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\bin\Debug\net8.0\ProductManagementSystem.BusinessComponents.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\bin\Debug\net8.0\ProductManagementSystem.BusinessComponents.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\bin\Debug\net8.0\ProductManagementSystem.BusinessComponents.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\ProductManagementSystem.BusinessComponents.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\ProductManagementSystem.BusinessComponents.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\ProductManagementSystem.BusinessComponents.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\ProductManagementSystem.BusinessComponents.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\ProductManagementSystem.BusinessComponents.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\ProductManagementSystem.BusinessComponents.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\refint\ProductManagementSystem.BusinessComponents.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\ProductManagementSystem.BusinessComponents.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\ref\ProductManagementSystem.BusinessComponents.dll
