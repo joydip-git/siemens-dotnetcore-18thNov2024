@@ -61,18 +61,9 @@ public enum ConnectionState
 }
 
 
-create table categories(
-	category_id int primary key identity(100,1) not null,
-	category_name varchar(20) not null
-)
+create table categories(category_id int primary key identity(100,1) not null,category_name varchar(20) not null)
 
-create table products(
-	product_id int primary key identity(100,1) not null,
-	product_name varchar(50) not null,
-	product_description varchar(max),
-	price decimal(18,2) default(0),
-	category_id int foreign key references categories(category_id)
-)
+create table products(product_id int primary key identity(100,1) not null, product_name varchar(50) not null, product_description varchar(max), price decimal(18,2) default(0),category_id int foreign key references categories(category_id))
 
 
 
