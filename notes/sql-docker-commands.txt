@@ -1,0 +1,43 @@
+
+docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=SqlServer@2024" -e "MSSQL_PID=Express" -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest 
+
+
+>docker exec -it <container-name> "bash"
+>/opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P "SqlServer@2024"
+
+If successful, you should get to a sqlcmd command prompt: 1>.
+
+		iii. create a database
+
+		1>create database siemensdb;
+		2>GO (The previous command is not run immediately. Type GO on a new line to run the previous command)
+		
+		iv. view the databases created
+		3>SELECT Name from sys.databases;
+		4>GO
+
+		v. create a table in "siemensdb" database
+		5>use siemensdb;
+		6>create table products(product_id int primary key identity(100,1) not null, product_name varchar(50) not null, product_price decimal(18,2) default(0), product_description varchar(max));
+		7>GO
+
+		vi. insert a record in the database table
+		8>insert into products values('dell xps 13', 120000, 'new laptop from dell');
+		9>GO
+
+		vi. view records fromm the table:
+		10>select * from products
+		11>GO
+
+		vi. view the tables from siemensdb
+		12>SELECT * FROM siemensdb.INFORMATION_SCHEMA.TABLES
+		13>GO
+		
+
+	c. use the following connection string in your dot net application running in a container:
+
+	i. if the sql server (Express) in the other container has exposed port 1433
+	server=host.docker.internal\\sqlexpress,1433;database=siemensdb;user id=sa; password=sqlserver2024; TrustServerCertificate=True
+
+	ii. connect to sql server running in a separate container where both the container are part of docker managed network:
+	server=<container-name>,1433;database=siemensdb;user id=sa; password=sqlserver2024; TrustServerCertificate=True

@@ -1,0 +1,26 @@
+ADO.NET
+
+Data Provider Types:
+------------------------------
+System.Data.SqlClient
+System.Data.OleDb
+System.Data.OracleClient.dll
+
+Open Database Connectivity => Odbc
+Microsoft.Data.SqlClient
+
+Data Consumer Types:
+--------------------------
+DataTable
+DataSet
+DaaRow
+DataColumn
+....
+
+
+
+
+
+
+
+
