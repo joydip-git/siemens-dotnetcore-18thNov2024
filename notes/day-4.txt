@@ -62,9 +62,10 @@ public enum ConnectionState
 
 
 create table categories(
-	categoyr_id int primary key identity(100,1) not null,
+	category_id int primary key identity(100,1) not null,
 	category_name varchar(20) not null
 )
+
 
 
 
