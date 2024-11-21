@@ -7,13 +7,32 @@
       "RelativeMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\00rxstii..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+      "AbsoluteMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-4\\databaseapp\\databaseapp\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\00rxstii..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-4\\databaseapp\\databaseapp\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joydip\\AppData\\Local\\Temp\\00rxstii..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-4\\databaseapp\\databaseapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-4\\databaseapp\\databaseapp\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-4\\databaseapp\\databaseapp\\dbutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\dbutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-4\\databaseapp\\databaseapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-4\\databaseapp\\databaseapp\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC2E5A9-6D29-4413-B4C6-0F6A6F74E0B6}|DatabaseApp\\DatabaseApp.csproj|solutionrelative:databaseapp\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,16 +42,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SQLQuery2.sql ",
-              "DocumentMoniker": "C:\\Users\\joydip\\AppData\\Local\\Temp\\00rxstii..sql",
-              "ToolTip": "SQLQuery2.sql *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-21T06:52:02.459Z",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\ProductRepository.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\ProductRepository.cs",
+              "RelativeToolTip": "DatabaseApp\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:59:53.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Product.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\Product.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Product.cs",
+              "RelativeToolTip": "DatabaseApp\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:59:12.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\IRepository.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\IRepository.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\IRepository.cs",
+              "RelativeToolTip": "DatabaseApp\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:17:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbUtility.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\DbUtility.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\DbUtility.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\DbUtility.cs",
+              "RelativeToolTip": "DatabaseApp\\DbUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:01:03.674Z",
               "EditorCaption": ""
             },
             {
@@ -43,9 +104,48 @@
               "RelativeDocumentMoniker": "DatabaseApp\\Program.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Program.cs",
               "RelativeToolTip": "DatabaseApp\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T06:39:27.755Z",
+              "WhenOpened": "2024-11-21T09:00:08.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseApp\\appsettings.json",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\appsettings.json",
+              "RelativeToolTip": "DatabaseApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T08:41:01.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Category.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\Category.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\Category.cs",
+              "RelativeToolTip": "DatabaseApp\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:38:54.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DatabaseApp\\CategoryRepository.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-4\\DatabaseApp\\DatabaseApp\\CategoryRepository.cs",
+              "RelativeToolTip": "DatabaseApp\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:36:56.297Z",
               "EditorCaption": ""
             }
           ]

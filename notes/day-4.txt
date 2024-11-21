@@ -94,6 +94,31 @@ non-select query:
 	ExecuteNonQuery()
 
 
+Configuration in .NET Core:
+------------------------------------
+package: Microsoft.Extensions.Configuration
+>dotnet add Microsoft.Extensions.Configuration
+
+package: Microsoft.Extensions.Configuration.Json
+>dotnet add Microsoft.Extensions.Configuration.Json
+
+JSON configuration provider implementation for Microsoft.Extensions.Configuration. This package enables you to read your application's settings from a JSON file. You can use JsonConfigurationExtensions.AddJsonFile extension method on IConfigurationBuilder to add the JSON configuration provider to the configuration builder.
+
+package: Microsoft.Extensions.Configuration.Binder
+>dotnet add Microsoft.Extensions.Configuration.Binder
+
+Provides the functionality to bind an object to data in configuration providers for Microsoft.Extensions.Configuration. This package enables you to represent the configuration data as strongly-typed classes defined in the application code. To bind a configuration, use the Microsoft.Extensions.Configuration.ConfigurationBinder.Get extension method on the IConfiguration object. To use this package, you also need to install a package for the configuration provider, for example, Microsoft.Extensions.Configuration.Json for the JSON provider.
+
+
+DI:
+-------------------
+package: Microsoft.Extensions.DependencyInjection
+>dotnet add Microsoft.Extensions.DependencyInjection
+
+singleton
+scoped
+transient
+
 
 
 
