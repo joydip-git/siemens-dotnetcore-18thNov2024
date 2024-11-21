@@ -16,7 +16,16 @@ DataSet
 DaaRow
 DataColumn
 ....
+docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=SqlServer@2024" -e "MSSQL_PID=Express" -p 1433:1433 -d mcr.microsoft.com/mssql/server:2019-latest
 
+
+server name => "server" or "data source"
+database name => "initial catalog" or "database"
+user name => "uid" or "user id"
+password => "pwd" or "password"
+encrypt => TrustServerCertificate=True
+
+SqlConnection connection = @"server=localhost\sqlexpress;database=;user id=;password=;TrustServerCertificate=True"
 
 
 
