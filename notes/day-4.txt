@@ -68,6 +68,9 @@ create table products(product_id int primary key identity(100,1) not null, produ
 insert into categories(category_name) values('laptop')
 insert into categories(category_name) values('mobile')
 
+insert into products(product_name,product_description,price,category_id) values('dell xps 15','new laptop from dell',120000,100)
+insert into products(product_name,product_description,price,category_id) values('iPhone 16','new mobile from apple',160000,101)
+
 
 
 
