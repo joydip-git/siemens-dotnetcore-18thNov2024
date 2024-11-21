@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|solutionrelative:productmanagementsystem.repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\productmanagementsystem\\productmanagementsystem.repository\\productmanagementsystem.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|solutionrelative:productmanagementsystem.repository\\productmanagementsystem.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00058054-FF54-4026-8F54-92BECB61A705}|ProductManagementSystem.BusinessComponents\\ProductManagementSystem.BusinessComponents.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\productmanagementsystem\\productmanagementsystem.businesscomponents\\productbusinessmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00058054-FF54-4026-8F54-92BECB61A705}|ProductManagementSystem.BusinessComponents\\ProductManagementSystem.BusinessComponents.csproj|solutionrelative:productmanagementsystem.businesscomponents\\productbusinessmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A179221C-D598-4D05-B9BA-64A8EFAE5FC2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\productmanagementsystem\\productmanagementsystem.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A179221C-D598-4D05-B9BA-64A8EFAE5FC2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\productmanagementsystem\\productmanagementsystem.repository\\utility\\dbutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|solutionrelative:productmanagementsystem.repository\\utility\\dbutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A179221C-D598-4D05-B9BA-64A8EFAE5FC2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\productmanagementsystem\\productmanagementsystem.userinterface\\productmanagementsystem.userinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A179221C-D598-4D05-B9BA-64A8EFAE5FC2}|ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj|solutionrelative:productmanagementsystem.userinterface\\productmanagementsystem.userinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\productmanagementsystem\\productmanagementsystem.repository\\utility\\dbqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|solutionrelative:productmanagementsystem.repository\\utility\\dbqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\productmanagementsystem\\productmanagementsystem.repository\\iproductrepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|solutionrelative:productmanagementsystem.repository\\iproductrepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\productmanagementsystem\\productmanagementsystem.repository\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ED40ED4-B5E3-441D-9538-7DA859199A98}|ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj|solutionrelative:productmanagementsystem.repository\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00058054-FF54-4026-8F54-92BECB61A705}|ProductManagementSystem.BusinessComponents\\ProductManagementSystem.BusinessComponents.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\productmanagementsystem\\productmanagementsystem.businesscomponents\\productbusinessmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00058054-FF54-4026-8F54-92BECB61A705}|ProductManagementSystem.BusinessComponents\\ProductManagementSystem.BusinessComponents.csproj|solutionrelative:productmanagementsystem.businesscomponents\\productbusinessmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +46,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductManagementSystem.UserInterface",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj",
+              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj",
+              "RelativeToolTip": "ProductManagementSystem.UserInterface\\ProductManagementSystem.UserInterface.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T11:57:18.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductManagementSystem.Repository",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj",
+              "RelativeDocumentMoniker": "ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj",
+              "RelativeToolTip": "ProductManagementSystem.Repository\\ProductManagementSystem.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T11:57:06.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbUtility.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\Utility\\DbUtility.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.Repository\\Utility\\DbUtility.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\Utility\\DbUtility.cs",
+              "RelativeToolTip": "ProductManagementSystem.Repository\\Utility\\DbUtility.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:05:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.UserInterface\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.UserInterface\\Program.cs",
+              "RelativeToolTip": "ProductManagementSystem.UserInterface\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:00:23.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductBusinessManager.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.BusinessComponents\\ProductBusinessManager.cs",
               "RelativeDocumentMoniker": "ProductManagementSystem.BusinessComponents\\ProductBusinessManager.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.BusinessComponents\\ProductBusinessManager.cs",
               "RelativeToolTip": "ProductManagementSystem.BusinessComponents\\ProductBusinessManager.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T12:03:31.967Z",
               "EditorCaption": ""
@@ -49,14 +121,27 @@
               "RelativeDocumentMoniker": "ProductManagementSystem.Repository\\ProductRepository.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\ProductRepository.cs",
               "RelativeToolTip": "ProductManagementSystem.Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwBYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T12:01:31.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "DbQueries.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\Utility\\DbQueries.cs",
+              "RelativeDocumentMoniker": "ProductManagementSystem.Repository\\Utility\\DbQueries.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\Utility\\DbQueries.cs",
+              "RelativeToolTip": "ProductManagementSystem.Repository\\Utility\\DbQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:12:25.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IProductRepositoryManager.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\IProductRepositoryManager.cs",
               "RelativeDocumentMoniker": "ProductManagementSystem.Repository\\IProductRepositoryManager.cs",
@@ -69,13 +154,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "IRepositoryManager.cs",
               "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\IRepositoryManager.cs",
               "RelativeDocumentMoniker": "ProductManagementSystem.Repository\\IRepositoryManager.cs",
               "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\ProductManagementSystem\\ProductManagementSystem.Repository\\IRepositoryManager.cs",
               "RelativeToolTip": "ProductManagementSystem.Repository\\IRepositoryManager.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABJwA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T12:00:08.913Z",
               "EditorCaption": ""

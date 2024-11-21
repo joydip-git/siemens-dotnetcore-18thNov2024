@@ -16,3 +16,4 @@ D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\Product
 D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\bin\Debug\net8.0\ProductManagementSystem.Storage.pdb
 D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductManagementSystem.Repository.csproj.AssemblyReference.cache
 D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\obj\Debug\net8.0\ProductM.8031EB9D.Up2Date
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.Repository\bin\Debug\net8.0\appsettings.json

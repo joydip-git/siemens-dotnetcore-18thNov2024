@@ -9,8 +9,8 @@ namespace ProductManagementSystem.BusinessComponents
         public ProductBusinessManager(IProductRepositoryManager manager)
         {
             //tight coupling
-            repositoryManager = new ProductRepository();
-            //repositoryManager = manager;
+            //repositoryManager = new ProductRepository();
+            repositoryManager = manager;
         }
         public Product Fetch(int id)
         {
@@ -20,7 +20,7 @@ namespace ProductManagementSystem.BusinessComponents
         public List<Product> FetchAll()
         {
             var all = repositoryManager.GetAll();
-            all.Sort();
+            //all.Sort();
             return all;
         }
 

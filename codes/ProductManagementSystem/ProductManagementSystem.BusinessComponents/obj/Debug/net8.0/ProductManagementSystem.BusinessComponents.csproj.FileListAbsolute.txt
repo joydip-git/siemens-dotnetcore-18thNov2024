@@ -18,3 +18,4 @@ D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\Product
 D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\bin\Debug\net8.0\ProductManagementSystem.Storage.pdb
 D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\ProductManagementSystem.BusinessComponents.csproj.AssemblyReference.cache
 D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\obj\Debug\net8.0\ProductM.6FBEBBCF.Up2Date
+D:\training\siemens-dotnetcore-18thNov2024\codes\ProductManagementSystem\ProductManagementSystem.BusinessComponents\bin\Debug\net8.0\appsettings.json
