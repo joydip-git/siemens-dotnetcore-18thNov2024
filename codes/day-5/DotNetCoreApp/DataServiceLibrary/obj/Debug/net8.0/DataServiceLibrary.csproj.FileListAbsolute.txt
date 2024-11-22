@@ -1,0 +1,13 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\bin\Debug\net8.0\DataServiceLibrary.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\bin\Debug\net8.0\DataServiceLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\bin\Debug\net8.0\DataServiceLibrary.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\obj\Debug\net8.0\DataServiceLibrary.csproj.AssemblyReference.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\obj\Debug\net8.0\DataServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\obj\Debug\net8.0\DataServiceLibrary.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\obj\Debug\net8.0\DataServiceLibrary.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\obj\Debug\net8.0\DataServiceLibrary.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\obj\Debug\net8.0\DataServiceLibrary.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\obj\Debug\net8.0\DataServiceLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\obj\Debug\net8.0\refint\DataServiceLibrary.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\obj\Debug\net8.0\DataServiceLibrary.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\DataServiceLibrary\obj\Debug\net8.0\ref\DataServiceLibrary.dll

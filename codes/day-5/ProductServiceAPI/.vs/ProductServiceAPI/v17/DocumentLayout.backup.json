@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B95D74-B7A9-4B70-84C5-A16F3068B36E}|SampleAPI\\SampleAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\productserviceapi\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B95D74-B7A9-4B70-84C5-A16F3068B36E}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B95D74-B7A9-4B70-84C5-A16F3068B36E}|SampleAPI\\SampleAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\productserviceapi\\sampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02B95D74-B7A9-4B70-84C5-A16F3068B36E}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B95D74-B7A9-4B70-84C5-A16F3068B36E}|SampleAPI\\SampleAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\productserviceapi\\sampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B95D74-B7A9-4B70-84C5-A16F3068B36E}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\productserviceapi\\productserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|solutionrelative:productserviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\productserviceapi\\productserviceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|solutionrelative:productserviceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\productserviceapi\\productserviceapi\\models\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|solutionrelative:productserviceapi\\models\\siemensdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\productserviceapi\\productserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|solutionrelative:productserviceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\productserviceapi\\productserviceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|solutionrelative:productserviceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\productserviceapi\\productserviceapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|solutionrelative:productserviceapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\productserviceapi\\productserviceapi\\productserviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A821FAF-520A-4966-8155-4660114B6BBA}|ProductServiceAPI\\ProductServiceAPI.csproj|solutionrelative:productserviceapi\\productserviceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\SampleAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleAPI\\appsettings.json",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\SampleAPI\\appsettings.json",
+              "RelativeToolTip": "SampleAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T12:18:52.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\SampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\SampleAPI\\Program.cs",
+              "RelativeToolTip": "SampleAPI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:18:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:18:46.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductServiceAPI\\appsettings.json",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\appsettings.json",
+              "RelativeToolTip": "ProductServiceAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T12:09:19.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductServiceAPI",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\ProductServiceAPI.csproj",
+              "RelativeDocumentMoniker": "ProductServiceAPI\\ProductServiceAPI.csproj",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\ProductServiceAPI.csproj",
+              "RelativeToolTip": "ProductServiceAPI\\ProductServiceAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T12:07:53.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SiemensDbContext.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\Models\\SiemensDbContext.cs",
+              "RelativeDocumentMoniker": "ProductServiceAPI\\Models\\SiemensDbContext.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\Models\\SiemensDbContext.cs",
+              "RelativeToolTip": "ProductServiceAPI\\Models\\SiemensDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:08:07.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductServiceAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductServiceAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:08:03.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProductServiceAPI\\Models\\Category.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\Models\\Category.cs",
+              "RelativeToolTip": "ProductServiceAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:07:56.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductServiceAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductServiceAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:58:33.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductServiceAPI\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\ProductServiceAPI\\ProductServiceAPI\\Program.cs",
+              "RelativeToolTip": "ProductServiceAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:50:30.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

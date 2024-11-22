@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\DataSeviceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ABA734-2AA7-4B3F-8206-A5E720FD5C1C}|DataSeviceAPI\\DataSeviceAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\dataseviceapi\\dataseviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ABA734-2AA7-4B3F-8206-A5E720FD5C1C}|DataSeviceAPI\\DataSeviceAPI.csproj|solutionrelative:dataseviceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ABA734-2AA7-4B3F-8206-A5E720FD5C1C}|DataSeviceAPI\\DataSeviceAPI.csproj|d:\\training\\siemens-dotnetcore-18thnov2024\\codes\\day-5\\dataseviceapi\\dataseviceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4ABA734-2AA7-4B3F-8206-A5E720FD5C1C}|DataSeviceAPI\\DataSeviceAPI.csproj|solutionrelative:dataseviceapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\DataSeviceAPI\\DataSeviceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DataSeviceAPI\\Program.cs",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\DataSeviceAPI\\DataSeviceAPI\\Program.cs",
+              "RelativeToolTip": "DataSeviceAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:45:14.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\DataSeviceAPI\\DataSeviceAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DataSeviceAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\training\\siemens-dotnetcore-18thNov2024\\codes\\day-5\\DataSeviceAPI\\DataSeviceAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DataSeviceAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T11:40:13.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

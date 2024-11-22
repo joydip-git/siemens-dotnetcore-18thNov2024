@@ -1,0 +1,15 @@
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\obj\Debug\net8.0\GarbageCollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\obj\Debug\net8.0\GarbageCollectionApp.AssemblyInfoInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\obj\Debug\net8.0\GarbageCollectionApp.AssemblyInfo.cs
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\obj\Debug\net8.0\GarbageCollectionApp.csproj.CoreCompileInputs.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\obj\Debug\net8.0\GarbageCollectionApp.sourcelink.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\bin\Debug\net8.0\GarbageCollectionApp.exe
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\bin\Debug\net8.0\GarbageCollectionApp.deps.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\bin\Debug\net8.0\GarbageCollectionApp.runtimeconfig.json
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\bin\Debug\net8.0\GarbageCollectionApp.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\bin\Debug\net8.0\GarbageCollectionApp.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\obj\Debug\net8.0\GarbageCollectionApp.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\obj\Debug\net8.0\refint\GarbageCollectionApp.dll
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\obj\Debug\net8.0\GarbageCollectionApp.pdb
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\obj\Debug\net8.0\GarbageCollectionApp.genruntimeconfig.cache
+D:\training\siemens-dotnetcore-18thNov2024\codes\day-5\DotNetCoreApp\GarbageCollectionApp\obj\Debug\net8.0\ref\GarbageCollectionApp.dll

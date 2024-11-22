@@ -1,0 +1,36 @@
+ASP.NET => ASP.NET Core
+					- Razor
+					- Blazor
+					- MVC web app
+					- Web API (RESTful Web API)
+
+web page
+
+service => Remoting Service, Web Service, Enterprise Sevices
+
+Windows Communication Foundation => WCF
+
+
+
+[ServiceContract]
+interface Calculation{
+		[Operatio...]
+		Add, Subtract
+} 
+
+class Calculation{
+		Add, Subtract
+} 
+
+<?xml >
+<soap:enveopr
+<message>
+	<param1>12</
+</message>
+
+
+
+
+
+
+
